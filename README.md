@@ -11,7 +11,7 @@
 **[视界Sight](http://sight.zhujinhui.net/)**主要汇聚互联网的前沿技术文章和资讯
 
 ## 最新动态
-[简书 - 微信中被隐藏而实用的功能们（Android版）](http://www.jianshu.com/p/171a0ceea69b)
+**[简书 - 微信中被隐藏而实用的功能们（Android版）](http://www.jianshu.com/p/171a0ceea69b)**
 
 
 ## 联系我
