@@ -1,5 +1,5 @@
 # 魔术师JeffreyChu的主页
-大家好，我是魔术师Jeffrey Chu！又称“小魔”，非常欢迎你的到来。这里是小魔的个人介绍中心，请多多指教！
+大家好，我是魔术师JeffreyChu！又称“小魔”，非常欢迎你的到来。这里是小魔的个人介绍中心，请多多指教！
 
 ## 个人博客网站
 个人网站主要是以github和csdn为主，分别是**[GitHub](https://github.com/ChuJeffrey)**和**[CSDN](http://blog.csdn.net/u010098702)** ，其中本网页github地址为**[https://github.com/ChuJeffrey/ChuJeffrey.github.io](https://github.com/ChuJeffrey/ChuJeffrey.github.io)**
