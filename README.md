@@ -4,6 +4,7 @@
 
 ### 个人网站
 个人网站主要是以github和csdn为主，分别是[GitHub](https://github.com/ChuJeffrey)和[CSDN](https://github.com/ChuJeffrey)，其中本网页github地址为[魔术师JeffreyChu的主页](https://github.com/ChuJeffrey/ChuJeffrey.github.io)
+
 ### 简书
 简书主要是写一些心得札记，喜欢看的请移步简书作者[魔术师JeffreyChu](http://www.jianshu.com/u/0dacfcca00d1)
 
