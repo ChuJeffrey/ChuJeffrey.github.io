@@ -8,7 +8,7 @@
 简书主要是写一些心得札记，喜欢看的请移步简书作者**[魔术师JeffreyChu](http://www.jianshu.com/u/0dacfcca00d1)**
 
 ## 资讯网站
-**[视界Sight](http://blog.zhujinhui.net/)**主要汇聚互联网的前沿技术文章和资讯
+**[视界Sight](http://sight.zhujinhui.net/)**主要汇聚互联网的前沿技术文章和资讯
 
 ## 联系我
 邮箱Email：13560418496@163.com
