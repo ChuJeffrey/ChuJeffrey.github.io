@@ -8,7 +8,7 @@
 简书主要是写一些心得札记，喜欢看的请移步简书作者**[魔术师JeffreyChu](http://www.jianshu.com/u/0dacfcca00d1)**
 
 ## 资讯网站
-**[视界Sight](http://sight.zhujinhui.net/)**主要汇聚互联网的前沿技术文章和资讯
+**[视界Sight](http://139.199.197.48:8910/static/html/home/index.html)**主要汇聚互联网的前沿技术文章和资讯
 
 ## 最新动态
 **[简书 - 微信中被隐藏而实用的功能们（Android版）](http://www.jianshu.com/p/171a0ceea69b)**
