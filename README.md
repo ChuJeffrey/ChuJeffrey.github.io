@@ -11,7 +11,7 @@
 **[视界Sight](http://139.199.197.48:8910/static/html/home/index.html)**主要汇聚互联网的前沿技术文章和资讯
 
 ## 最新动态
-**[简书 - 微信中被隐藏而实用的功能们（Android版）](http://www.jianshu.com/p/171a0ceea69b)**
+**[江城子 · 冬至](http://www.jianshu.com/p/6c5550be9578)**
 
 
 ## 联系我
