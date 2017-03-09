@@ -11,7 +11,7 @@
 **[视界Sight](http://139.199.197.48:8910/static/html/home/index.html)**主要汇聚互联网的前沿技术文章和资讯
 
 ## 最新动态
-**[江城子 · 冬至](http://www.jianshu.com/p/6c5550be9578)**
+**[10首让你感觉血液加速沸腾的BGM（2）](http://www.jianshu.com/p/e68e7871503f)**
 
 
 ## 联系我
