@@ -12,6 +12,7 @@
 
 ## 最新动态
 **[10首让你感觉血液加速沸腾的BGM（2）](http://www.jianshu.com/p/e68e7871503f)**
+
 **[小魔笔记：Centos7安装MySQL-Python出现mysql_config not found](http://blog.zhujinhui.net/jin-nian-lai-na-xie-bu-ke-cuo-guo-de-xuan-yi-liang-song-pian-fu-li-2/)**
 
 
