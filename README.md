@@ -2,7 +2,7 @@
 大家好，我是魔术师JeffreyChu！又称“小魔”，非常欢迎你的到来。这里是小魔的个人介绍中心，请多多指教！
 
 ## 个人博客网站
-个人技术博客主要是以github和csdn为主，分别是**[GitHub](https://github.com/ChuJeffrey)**和**[CSDN](http://blog.csdn.net/u010098702)** ，其中本网页github地址为**[https://github.com/ChuJeffrey/ChuJeffrey.github.io](https://github.com/ChuJeffrey/ChuJeffrey.github.io)**
+个人技术博客主要是以github和csdn为主，分别是**[个人博客](http://blog.zhujinhui.net)**,**[GitHub](https://github.com/ChuJeffrey)**和**[CSDN](http://blog.csdn.net/u010098702)** ，其中本网页github地址为**[https://github.com/ChuJeffrey/ChuJeffrey.github.io](https://github.com/ChuJeffrey/ChuJeffrey.github.io)**
 
 ## 简书
 简书主要是写一些心得札记，喜欢看的请移步简书作者**[魔术师JeffreyChu](http://www.jianshu.com/u/0dacfcca00d1)**
@@ -12,6 +12,7 @@
 
 ## 最新动态
 **[10首让你感觉血液加速沸腾的BGM（2）](http://www.jianshu.com/p/e68e7871503f)**
+**[小魔笔记：Centos7安装MySQL-Python出现mysql_config not found](http://blog.zhujinhui.net/jin-nian-lai-na-xie-bu-ke-cuo-guo-de-xuan-yi-liang-song-pian-fu-li-2/)**
 
 
 ## 联系我
