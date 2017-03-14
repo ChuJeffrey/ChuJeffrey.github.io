@@ -5,7 +5,7 @@
 个人技术博客主要是以github和csdn为主，分别是**[个人博客](http://blog.zhujinhui.net){:target="_blank"}**，**[GitHub](https://github.com/ChuJeffrey){:target="_blank"}**和**[CSDN](http://blog.csdn.net/u010098702){:target="_blank"}** ，其中本网页github地址为**[https://github.com/ChuJeffrey/ChuJeffrey.github.io](https://github.com/ChuJeffrey/ChuJeffrey.github.io)**
 
 ## 简书
-简书主要是写一些心得札记，喜欢看的请移步简书作者**[魔术师JeffreyChu](http://www.jianshu.com/u/0dacfcca00d1){:target="_blank"}**
+简书主要是写一些心得札记，喜欢看的请移步简书作者**[魔术师JeffreyChu的简书](http://www.jianshu.com/u/0dacfcca00d1){:target="_blank"}**
 
 ## 资讯网站
 **[视界Sight](http://sight.zhujinhui.net/){:target="_blank"}**主要汇聚互联网的前沿技术文章和资讯
