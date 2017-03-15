@@ -15,6 +15,8 @@
 
 **[小魔笔记：Centos7安装MySQL-Python出现mysql_config not found](http://blog.zhujinhui.net/jin-nian-lai-na-xie-bu-ke-cuo-guo-de-xuan-yi-liang-song-pian-fu-li-2/){:target="_blank"}**
 
+**[Python之雅：迭代]http://blog.zhujinhui.net/pythonzhi-ya-die-dai/){:target="_blank"}**
+
 
 ## 联系我
 邮箱Email：13560418496@163.com
