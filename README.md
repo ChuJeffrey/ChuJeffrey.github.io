@@ -5,7 +5,7 @@
 个人技术博客主要是以github和csdn为主，分别是**[个人博客](http://blog.zhujinhui.net){:target="_blank"}**，**[GitHub](https://github.com/ChuJeffrey){:target="_blank"}**和**[CSDN](http://blog.csdn.net/u010098702){:target="_blank"}** ，其中本网页github地址为**[https://github.com/ChuJeffrey/ChuJeffrey.github.io](https://github.com/ChuJeffrey/ChuJeffrey.github.io)**
 
 ## 产品/作品
-**[吉图](http://jitu.zhujinhui.net/){:target="_blank"}**找到你喜欢的吉祥图
+**[X秘书AI](http://xmishu.zhujinhui.net/){:target="_blank"}**找到你喜欢的吉祥图
 
 ## 联系我
 邮箱Email：13560418496@163.com
